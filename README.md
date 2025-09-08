@@ -50,5 +50,5 @@ streamlit run ui.py
 
 Below is a preview of the Streamlit application:
 
-![App Screenshot](screenshots/agentai ss1.png)
-![App Screenshot](screenshots/agentai ss2.png)
+![App Screenshot](screenshots/agentai_ss1.png)
+![App Screenshot](screenshots/agentai_ss2.png)
