@@ -4,14 +4,15 @@
 This project implements an AI Chatbot Agent powered by LangGraph, Groq, OpenAI, and Tavily Search. It provides both a FastAPI backend and a Streamlit UI frontend, enabling users to interact with multiple LLMs (like LLaMA 3.3 and GPT-4o-mini) and optionally leverage web search for real-time answers.
 
 ## 🚀 Features
-
+```
 ✅ Support for multiple model providers (Groq, OpenAI)
 ✅ Integration with Tavily Search for live web search
 ✅ FastAPI backend for modular agent response serving
 ✅ Streamlit UI frontend for easy interaction
 ✅ Swagger UI support for API exploration
 ✅ Customizable system prompts for agent personality
----
+```
+
 
 ## 📂 Project Structure
 
